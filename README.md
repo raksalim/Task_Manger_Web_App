@@ -1,0 +1,2 @@
+# reaction_guage_website
+A website that breaks down the sentiments of a tweet's comments and reactions, and puts it into scale. The website will scrape a tweet's comments, gauge whether each comment is positive, negative, or neutral and plot it onto a graph. The website will also display the current number of tweet's likes, reposts, and repost with comments. The end goal of this project will incorporate a ML model to determine the positivity level of each comment AND retweet(with comment).
